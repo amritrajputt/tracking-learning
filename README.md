@@ -10,5 +10,4 @@ Started learning SQL from udemy course of hitesh sir setup and all basic termino
 
 #3 jan 2026
 solved max path sum problem DSA.
-
 wrote 1st SQL Query ( create , update , delete , insert , like , % and ER (ENTITY RELATIONSHIP DIAGRAM ))
