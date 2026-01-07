@@ -18,3 +18,10 @@ DML command ( insert , update , delete , select )
 DCL command ( grant , revoke )
 TCL command ( begin , commit , rollback , savepoint )
 DTO AND DQL 
+
+#5 jan 2026
+solved 1 binary tree problem and complete challenge on masterji and also practiced SQL
+
+#6 jan 2026
+
+solved 1 binary tree problem and complete challenge on masterji and also learnt about normalisation in SQL (1NF, 2NF , 3NF). 
