@@ -25,7 +25,11 @@ solved 1 binary tree problem and complete challenge on masterji and also practic
 #6 jan 2026
 solved 1 binary tree problem and complete challenge on masterji and also learnt about normalisation in SQL (1NF, 2NF , 3NF). 
 
-#7 jan 
+#7 jan 2026
 can't able to solve DSA actually i didn't have much time so i gave noly 10 min but can able to think
 and  complete challenge on masterji and also learnt about joins in SQL. 
+
+#8 jan 2026
+
+wrote a blog (assignment) of cohort :- Why Version Control Exists: The Pendrive Problem
 
