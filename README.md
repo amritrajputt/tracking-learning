@@ -29,7 +29,15 @@ solved 1 binary tree problem and complete challenge on masterji and also learnt 
 can't able to solve DSA actually i didn't have much time so i gave noly 10 min but can able to think
 and  complete challenge on masterji and also learnt about joins in SQL. 
 
+
 #8 jan 2026
+
+wrote blog about version control system
+
+#9 jan 2026
+wrote blog about git
+
+
 
 wrote a blog (assignment) of cohort :- Why Version Control Exists: The Pendrive Problem
 
