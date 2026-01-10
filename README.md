@@ -35,7 +35,10 @@ and  complete challenge on masterji and also learnt about joins in SQL.
 wrote blog about version control system
 
 #9 jan 2026
-wrote blog about git
+wrote blog about git and started learning python
+
+#10 jan 2026
+learned python only (numbers,string and its methods)
 
 
 
